@@ -1,4 +1,3 @@
 # Instructions  
 
-  ## Questions
-  1. 
+Create 5 tests Cases for each question in PracticeProblem.java
